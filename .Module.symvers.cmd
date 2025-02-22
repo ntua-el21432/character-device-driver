@@ -1,0 +1,1 @@
+savedcmd_/home/user/shared/lunix-tng-helpcode-20241024/Module.symvers :=  scripts/mod/modpost -M        -o /home/user/shared/lunix-tng-helpcode-20241024/Module.symvers -T /home/user/shared/lunix-tng-helpcode-20241024/modules.order -i Module.symvers -e 

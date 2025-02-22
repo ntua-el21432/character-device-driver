@@ -1,0 +1,1 @@
+savedcmd_/home/user/shared/lunix-tng-helpcode-20241024/lunix.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/user/shared/lunix-tng-helpcode-20241024/lunix.ko /home/user/shared/lunix-tng-helpcode-20241024/lunix.o /home/user/shared/lunix-tng-helpcode-20241024/lunix.mod.o
